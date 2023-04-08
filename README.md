@@ -23,7 +23,8 @@ The following files are included in this project:
 
 * ```loan_prediction.ipynb```: Jupyter Notebook containing the code for data exploration, preprocessing, feature engineering, and model building.
 * ```loan_prediction.py```: Python file containing the same code as in the Jupyter Notebook, but in a script format.
-* ```Loan_Prediction.csv```: Dataset file containing loan application data.
+* ```input/test_data.csv```: It contains test dataset.
+* ```input/train_data.csv```: It contains train dataset.
 
 ## **How to run**
 
